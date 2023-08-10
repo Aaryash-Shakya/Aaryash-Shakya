@@ -1,4 +1,4 @@
-<img src="[https://i.redd.it/i03fnmea06331.jpg](https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg)" alt="eat sleep code repeat">
+<img src="https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg" alt="eat sleep code repeat">
 <h1 align="center">Hi 👋, I'm Aaryash Shakya</h1>
 <h3 align="center">Full stack MERN developer. Currently studying "Bachelor in Computer Science and Information Technology". Exploring avenues for collaboration with fellow developers who share a passion for problem-solving and cutting-edge technology. Let's code our way to success!</h3>
 
