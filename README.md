@@ -1,4 +1,4 @@
-<img src="https://e0.pxfuel.com/wallpapers/259/295/desktop-wallpaper-eat-sleep-code-repeat-black-background-technology.jpg" alt="eat sleep code repeat" style="width: 100%">
+<img src="https://e0.pxfuel.com/wallpapers/259/295/desktop-wallpaper-eat-sleep-code-repeat-black-background-technology.jpg" alt="eat sleep code repeat" style="aspect-ratio: 5/1; width: 100%; object-fit: cover;">
 <h1 align="center">Hi 👋, I'm Aaryash Shakya</h1>
 <h3 align="center">Full stack MERN developer. Currently studying "Bachelor in Computer Science and Information Technology". Exploring avenues for collaboration with fellow developers who share a passion for problem-solving and cutting-edge technology. Let's code our way to success!</h3>
 
