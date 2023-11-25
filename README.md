@@ -2,21 +2,22 @@
 <h1 align="center">Hi 👋, I'm Aaryash Shakya</h1>
 <h3 align="center">Full stack MERN developer. Currently studying "Bachelor in Computer Science and Information Technology". Exploring avenues for collaboration with fellow developers who share a passion for problem-solving and cutting-edge technology. Let's code our way to success!</h3>
 
-
-- 🔭 I’m currently working on **a movie ticket booking and review website**
-
+- 🎓 Pursuing **BSc.** in **Computer Science and Information Technology** from **[Sagarmatha College of Science and Technology, Lalitpur](http://scst.edu.np/).**
+- 🔭 I’m currently working on **food delivery backend**
 - 🌱 I’m currently learning **typesript, tailwindcss**
-
 - 🤝 I’m looking for help with **typescript**
-
 - 💬 Ask me about **MERN, Linux, Android customization**
-
 - 📫 How to reach me **aarayshshakya31@gmail.com**
-
 - ⚡ Fun fact **I love outdoor activities**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+[![GitHub Follow](https://img.shields.io/github/followers/Aaryash-Shakya?label=Follow&style=social)](https://github.com/Aaryash-Shakya)
+[![Linkedin: aaryash-shakya](https://img.shields.io/badge/-aaryash-shakya-blue?style=badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasoonsoni/)](https://www.linkedin.com/in/aaryash-shakya/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white)](https://instagram.com/tan0sama)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=badge&logo=About.me&logoColor=white)](https:///)aaryash-shakya.com.np
+![Visitors](https://komarev.com/ghpvc/?username=your-github-Aaryash-Shakya&color=blue&style=badge&label=Visitors)
+</br>
 <a href="https://linkedin.com/in/aaryash-shakya-367b0026a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaryash-shakya-367b0026a" height="30" width="40" /></a>
 <a href="https://instagram.com/tan0sama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tan0sama" height="30" width="40" /></a>
 </p>
