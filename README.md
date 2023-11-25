@@ -12,14 +12,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[![GitHub Follow](https://img.shields.io/github/followers/Aaryash-Shakya?label=Follow&style=social)](https://github.com/Aaryash-Shakya)
-[![Linkedin: aaryash-shakya](https://img.shields.io/badge/-aaryash-shakya-blue?style=badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasoonsoni/)](https://www.linkedin.com/in/aaryash-shakya/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white)](https://instagram.com/tan0sama)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=badge&logo=About.me&logoColor=white)](https:///)aaryash-shakya.com.np
-![Visitors](https://komarev.com/ghpvc/?username=your-github-Aaryash-Shakya&color=blue&style=badge&label=Visitors)
-</br>
-<a href="https://linkedin.com/in/aaryash-shakya-367b0026a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaryash-shakya-367b0026a" height="30" width="40" /></a>
-<a href="https://instagram.com/tan0sama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tan0sama" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aaryash-shakya" target="_blank">
+  <img src="https://img.shields.io/badge/-aaryash--shakya-blue?style=badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.freecodecamp.org/Aaryash-Shakya" target="_blank">
+  <img src="https://img.shields.io/badge/-Aaryash--Shakya-090921?style=badge&logo=freecodecamp&logoColor=white" alt="Instagram">
+</a>
+<a href="https://www.instagram.com/tan0sama" target="_blank">
+  <img src="https://img.shields.io/badge/-tan0sama-E4405F?style=badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://codepen.io/aaryash_shakya" target="_blank">
+  <img src="https://img.shields.io/badge/-aaryash__shakya-black?style=badge&logo=codepen&logoColor=white" alt="Instagram">
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
