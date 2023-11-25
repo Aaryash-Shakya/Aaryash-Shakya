@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aaryash Shakya</h1>
 <h3 align="center">Full stack MERN developer. Currently studying "Bachelor in Computer Science and Information Technology". Exploring avenues for collaboration with fellow developers who share a passion for problem-solving and cutting-edge technology. Let's code our way to success!</h3>
 
+
 - 🎓 Pursuing **BSc.** in **Computer Science and Information Technology** from **[Sagarmatha College of Science and Technology, Lalitpur](http://scst.edu.np/).**
 - 🔭 I’m currently working on **food delivery backend**
 - 🌱 I’m currently learning **typesript, tailwindcss**
@@ -10,19 +11,19 @@
 - 📫 How to reach me **aarayshshakya31@gmail.com**
 - ⚡ Fun fact **I love outdoor activities**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aaryash-shakya" target="_blank" style="text-decoration: none;">
+<a href="https://www.linkedin.com/in/aaryash-shakya" target="_blank">
   <img src="https://img.shields.io/badge/-aaryash--shakya-blue?style=badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
 </a>
-[![LinkedIn](https://img.shields.io/badge/-aaryash--shakya-blue?style=badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aaryash-shakya){:target="_blank"}
-<a href="https://www.freecodecamp.org/Aaryash-Shakya" target="_blank" style="text-decoration: none;">
+<a href="https://www.freecodecamp.org/Aaryash-Shakya" target="_blank">
   <img src="https://img.shields.io/badge/-Aaryash--Shakya-090921?style=badge&logo=freecodecamp&logoColor=white" alt="Instagram">
 </a>
-<a href="https://www.instagram.com/tan0sama" target="_blank" style="text-decoration: none;">
+<a href="https://www.instagram.com/tan0sama" target="_blank">
   <img src="https://img.shields.io/badge/-tan0sama-E4405F?style=badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
-<a href="https://codepen.io/aaryash_shakya" target="_blank" style="text-decoration: none;">
+<a href="https://codepen.io/aaryash_shakya" target="_blank">
   <img src="https://img.shields.io/badge/-aaryash__shakya-black?style=badge&logo=codepen&logoColor=white" alt="Instagram">
 </a>
 </p>
