@@ -11,7 +11,10 @@
 - 📫 How to reach me **aarayshshakya31@gmail.com**
 - ⚡ Fun fact **I love outdoor activities**
 
-
+### 👇 Execute in your terminal to know with me in a unique way.
+```sh
+    npx aaryash
+```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aaryash-shakya" target="_blank">
