@@ -4,8 +4,8 @@
 
 
 - 🎓 Pursuing **BSc.** in **Computer Science and Information Technology** from **[Sagarmatha College of Science and Technology, Lalitpur](http://scst.edu.np/).**
-- 🔭 I’m currently working on **full stack event management system**
-- 🌱 I’m currently learning **sequelzie, daisyUI**
+- 🔭 I’m currently working on **interactive map based resort booking system**
+- 🌱 I’m currently learning **NEXTJS, AI**
 - 🤝 I’m looking for help with **typescript**
 - 💬 Ask me about **MERN, Linux, Android customization**
 - 📫 How to reach me **aarayshshakya.dev@gmail.com**
@@ -59,6 +59,8 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.daisyui.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/saadeghi/daisyui/master/src/docs/static/images/daisyui-logo/favicon-192.png" alt="daisyUI" width="40" height="40"/> </a>
+<a href="https://www.nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/9771a2d4a7366d3c6d4793e17104eba9e88f0aec82f7165bfe6871455c26cb2c/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" alt="Next.js" width="40" height="40"/> </a>
+
 
 <h5 align="left">Basics :</h5>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
