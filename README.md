@@ -71,5 +71,9 @@
 <p align="left"> 
 </p>
 
+### 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryash-shakya&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="aaryash-shakya" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaryash-shakya&show_icons=true&theme=tokyonight&locale=en" alt="aaryash-shakya" /></p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Aaryash-Shakya&limit=5&theme=dark&combine_all_yearly_contributions=true)
