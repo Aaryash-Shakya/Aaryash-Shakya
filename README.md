@@ -31,19 +31,33 @@
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<h5 align="left">Confident in:</h5>
+## Tech Stack
 
-[![Confident in](https://skillicons.dev/icons?i=c,cpp,html,css,js,bootstrap,tailwind,sass,nodejs,react,express,mongodb,sequelize,mysql,npm,postgres,linux,git,postman)](https://skillicons.dev)
+<h3 align="left">What I use daily ⌛:</h3>
 
-<h5 align="left">learning :</h5>
+![What I use daily - tools](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,bash,git,github,vscode,postman,figma,brave,slack&titles=true)
 
-[![Learning](https://skillicons.dev/icons?i=typescript,bash,nextjs)](https://skillicons.dev)
-<a href="https://www.daisyui.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/saadeghi/daisyui-images/master/images/daisyui-logo/favicon-192.png" alt="daisyUI" width="45" height="45"/> </a>
+![What I use daily - skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,nodejs,express,postgres,sequelize,prisma,vite,react,nextjs,tailwindcss,daisyui,npm,yarn,swagger,mocha&titles=true)
 
-<h5 align="left">Basics :</h5>
 
-[![Basics](https://skillicons.dev/icons?i=photoshop,python,figma,php,wordpress)](https://skillicons.dev)
+<h3 align="left">What I know 💡:</h3>
+
+![What I know - tools](https://go-skill-icons.vercel.app/api/icons?i=photoshop,vim,tmux&titles=true)
+
+![What I know - skills](https://go-skill-icons.vercel.app/api/icons?i=python,mysql,sqlite,bootstrap,mongodb,sass,jest,zustand,googleanalytics,githubpages,huggingface&titles=true)
+
+
+<h3 align="left">What I am learning 📄:</h3>
+
+![What I know - skills](https://go-skill-icons.vercel.app/api/icons?i=reactnative,numpy,trpc&titles=true)
+
+
+<h3 align="left">What I have tried 🔬:</h3>
+
+![What I have tried - tools](https://go-skill-icons.vercel.app/api/icons?i=kitty,&titles=true)
+
+![What I have tried - skills](https://go-skill-icons.vercel.app/api/icons?i=php,wordpress,java&titles=true)
+
 
 ### 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryash-shakya&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="aaryash-shakya" /></p>
