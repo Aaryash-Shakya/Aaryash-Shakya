@@ -5,7 +5,7 @@
 
 - 🎓 Pursuing **BSc.** in **Computer Science and Information Technology** from **[Sagarmatha College of Science and Technology, Lalitpur](http://scst.edu.np/).**
 - 🔭 I’m currently working on **Nutrition Monitoring and Diet Recommendation App**
-- 🌱 I’m currently learning **EXPO, Machine Learning**
+- 🌱 I’m currently learning **EXPO, Machine Learning, Magento**
 - 🤝 I’m looking for help with **cli-resume**
 - 💬 Ask me about **MERN, Linux**
 - 📫 How to reach me **aarayshshakya.dev@gmail.com**
