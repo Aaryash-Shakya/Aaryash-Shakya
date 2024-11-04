@@ -1,13 +1,13 @@
 <img src="https://i.imgur.com/QF5fwPi.jpeg" alt="eat sleep code repeat" style="width: 100%;">
 <h1 align="center">Hi 👋, I'm Aaryash Shakya</h1>
-<h3 align="center">Full stack MERN developer. Exploring avenues for collaboration with fellow developers who share a passion for problem-solving and cutting-edge technology. Let's code our way to success!</h3>
+<h3 align="center">Full stack Web developer. Exploring avenues for collaboration with fellow developers who share a passion for problem-solving and cutting-edge technology.</h3>
 
 
 - 🎓 Pursuing **BSc.** in **Computer Science and Information Technology** from **[Sagarmatha College of Science and Technology, Lalitpur](http://scst.edu.np/).**
 - 🔭 I’m currently working on **Nutrition Monitoring and Diet Recommendation App**
 - 🌱 I’m currently learning **EXPO, Machine Learning, Magento**
 - 🤝 I’m looking for help with **cli-resume**
-- 💬 Ask me about **MERN, Linux**
+- 💬 Ask me about **nodejs, Linux**
 - 📫 How to reach me **aarayshshakya.dev@gmail.com**
 
 ### 👇 Execute in your terminal to know with me in a unique way.
