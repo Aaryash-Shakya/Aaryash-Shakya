@@ -34,21 +34,19 @@
 
 <h3 align="left">What I use daily ⌛:</h3>
 
-![What I use daily - tools](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,bash,git,github,vscode,postman,figma,brave,slack&titles=true)
+![What I use daily - tools](https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,bash,git,github,vscode,postman,figma,brave,slack,notion&titles=true)
 
 ![What I use daily - skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,nodejs,express,postgres,sequelize,prisma,vite,react,nextjs,tailwindcss,daisyui,npm,yarn,swagger,mocha&titles=true)
 
 
 <h3 align="left">What I know 💡:</h3>
 
-![What I know - tools](https://go-skill-icons.vercel.app/api/icons?i=photoshop,vim,tmux&titles=true)
-
 ![What I know - skills](https://go-skill-icons.vercel.app/api/icons?i=python,mysql,sqlite,bootstrap,mongodb,sass,jest,zustand,googleanalytics,githubpages,huggingface&titles=true)
 
 
 <h3 align="left">What I am learning 📄:</h3>
 
-![What I know - skills](https://go-skill-icons.vercel.app/api/icons?i=reactnative,numpy,trpc&titles=true)
+![What I know - skills](https://go-skill-icons.vercel.app/api/icons?i=reactnative,numpy,trpc,ollama&titles=true)
 
 
 <h3 align="left">What I have tried 🔬:</h3>
